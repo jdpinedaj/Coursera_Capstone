@@ -1,0 +1,262 @@
+,neighborhood,crash,fallen_occupant,other,overturning,run_over
+0,Aguas Frías,9,3,6,1,2
+1,Aldea Pablo VI,25,12,6,2,19
+2,Alejandro Echavarría,130,23,38,11,38
+3,Alejandría,408,18,23,9,14
+4,Alfonso López,714,198,201,55,148
+5,Altamira,207,34,40,12,23
+6,Altavista,25,5,4,2,6
+7,Altavista Sector Central,31,9,19,3,12
+8,Altos del Poblado,237,26,30,16,19
+9,Andalucía,141,27,29,14,61
+10,Antonio Nariño,12,4,3,2,0
+11,Aranjuez,183,42,39,13,46
+12,Asomadera No.1,404,41,52,22,29
+13,Asomadera No.2,686,46,67,32,14
+14,Asomadera No.3,21,4,11,4,1
+15,Astorga,231,4,13,3,9
+16,Aures No.1,204,107,102,28,78
+17,Aures No.2,173,115,105,34,76
+18,Avenida 80 Calle 65,49,8,10,1,6
+19,B. Cerro El Volador,546,75,79,22,45
+20,Barrio Colombia,927,66,71,22,84
+21,Barrio Colón,417,33,21,8,20
+22,Barrio Nuevo La Loma,110,31,26,8,23
+23,Barrios de Jesús,163,41,43,14,53
+24,Barro Blanco,1,0,0,0,0
+25,Belalcázar,346,36,65,15,32
+26,Belen La Mota,481,53,68,34,55
+27,Belencito,46,8,17,3,5
+28,Bello Horizonte,104,18,17,4,20
+29,Belén,948,55,99,27,124
+30,Belén La Gloria,30,4,10,0,2
+31,Belén Rincón,11,0,2,0,1
+32,Berlín,480,107,108,26,173
+33,Bermejal-Los Álamos,135,32,44,14,57
+34,Betania,2,2,1,0,4
+35,Blanquizal,34,8,7,4,11
+36,Bomboná No.2,211,39,47,22,39
+37,Bosques de San Pablo,302,81,62,10,34
+38,Boyacá,436,88,82,34,46
+39,Brasilia,141,36,46,12,62
+40,Buenos Aires,784,79,119,36,90
+41,Calasanz,1141,127,152,33,137
+42,Calle 109 # 52-20,189,52,36,13,107
+43,Calle Nueva,1308,92,110,37,138
+44,Campo Alegre,17,4,3,0,5
+45,Campo Amor,4030,356,496,166,263
+46,Campo Valdés No.1,695,149,152,48,216
+47,Campo Valdés No.2,352,99,107,30,147
+48,Cancha la Maracaná,349,158,153,33,162
+49,Caribe,2333,119,227,62,149
+50,Carlos Castro Saavedra,230,79,56,16,49
+51,Carlos E. Restrepo,1200,128,150,44,65
+52,Carpinelo,26,11,15,6,33
+53,Castilla,563,174,204,44,158
+54,Castropol,342,32,34,10,13
+55,Cataluña,187,28,59,20,35
+56,Centro Administrativo,634,29,29,14,27
+57,Cerro Nutibara,586,48,74,31,29
+58,Corazón de Jesús,2607,181,244,67,302
+59,Corregimiento Palmitas,7,0,1,1,1
+60,Cristo Rey,115,6,13,7,7
+61,Cuarta Brigada,929,65,94,20,82
+62,Cucaracho,253,118,129,26,36
+63,Diego Echavarría,159,18,27,10,1
+64,Doce de Octubre No.1,203,134,97,21,114
+65,Doce de Octubre No.2,148,41,56,12,54
+66,Ecoparque Cerro El Volador,431,76,82,26,22
+67,Eduardo Santos,34,10,17,4,6
+68,El Castillo,184,7,11,7,9
+69,El Compromiso,6,3,0,2,3
+70,El Corazón,28,7,8,4,18
+71,El Diamante,766,391,361,48,204
+72,El Diamante No.2,225,6,13,4,9
+73,El Llano,8,1,2,2,2
+74,El Llano SE,1,0,0,0,0
+75,El Manzanillo,4,0,3,0,0
+76,El Nogal-Los Almendros,672,33,57,13,49
+77,El Patio,1,0,0,0,0
+78,El Pesebre,44,4,11,3,5
+79,El Picacho,3,4,0,0,0
+80,El Pinal,313,67,75,22,128
+81,El Placer,7,1,1,1,0
+82,El Plan,86,81,83,34,36
+83,El Poblado,730,38,75,19,49
+84,El Pomar,130,36,41,7,19
+85,El Progreso,77,9,10,2,5
+86,El Raizal,186,68,63,27,91
+87,El Rincón,479,98,146,50,90
+88,El Salado,30,14,16,7,19
+89,El Salvador,237,54,85,19,54
+90,El Tesoro,507,32,28,24,13
+91,El Triunfo,26,17,21,2,18
+92,El Velódromo,102,3,8,3,8
+93,Enciso,460,76,78,39,105
+94,Estadio,499,72,79,14,65
+95,Ferrini,581,137,163,49,76
+96,Francisco Antonio Zea,905,186,250,78,160
+97,Fuente Clara,232,63,70,20,34
+98,Fátima,663,35,68,20,53
+99,Gerona,263,40,61,26,61
+100,Girardot,1302,194,272,66,119
+101,Granada,581,66,77,32,55
+102,Granizal,151,26,44,11,94
+103,Guayabal,854,77,111,38,84
+104,Guayaquil,519,34,36,11,67
+105,Héctor Abad Gómez,669,85,138,40,47
+106,INEM,37,7,8,4,8
+107,Iglesia San José,1,0,0,0,0
+108,Jesús Nazareno,1482,172,204,73,185
+109,Juan Pablo II,9,6,3,5,13
+110,Juan XXIII La Quiebra,20,7,12,0,11
+111,Kennedy,543,220,200,46,241
+112,La Aguacatala,1438,108,140,55,43
+113,La Alpujarra,2016,159,193,57,118
+114,La América,907,107,151,43,135
+115,La Avanzada,44,8,2,2,12
+116,La Castellana,162,8,7,2,3
+117,La Colina,308,66,79,30,58
+118,La Cruz,52,13,7,5,39
+119,La Esperanza No.2,40,13,11,7,32
+120,La Floresta,221,26,27,4,15
+121,La Florida,994,39,58,24,49
+122,La Frisola,1,0,0,0,0
+123,La Frontera,146,29,40,15,63
+124,La Hondonada,156,26,33,6,17
+125,La Ilusión,3,0,0,0,0
+126,La Loma de Los Bernal,444,49,72,19,25
+127,La Mansión,207,26,38,17,31
+128,La Milagrosa,301,42,31,12,54
+129,La Palma,139,14,17,3,8
+130,La Pilarica,165,26,35,5,17
+131,La Piñuela,143,45,26,10,43
+132,La Pradera,20,10,7,4,9
+133,La Rosa,213,42,57,14,91
+134,La Salle,210,55,62,23,132
+135,La Sierra,4,5,5,1,3
+136,Lalinde,146,7,3,2,3
+137,Las Acacias,1276,111,127,38,91
+138,Las Brisas,432,51,64,19,48
+139,Las Esmeraldas,292,60,55,23,90
+140,Las Estancias,95,38,39,10,68
+141,Las Granjas,525,143,148,49,274
+142,Las Lomas No.1,406,23,43,12,13
+143,Las Lomas No.2,328,22,37,8,4
+144,Las Palmas,245,42,52,28,18
+145,Las Playas,5,0,1,0,0
+146,Las Violetas,1,1,0,0,0
+147,Laureles,395,14,28,5,29
+148,Llanaditas,15,7,9,3,25
+149,Lorena,1285,154,181,39,147
+150,Loreto,346,84,107,35,110
+151,Los Alcázares,293,49,50,17,37
+152,Los Balsos No.1,344,13,25,7,5
+153,Los Balsos No.2,32,0,4,0,0
+154,Los Cerros El Vergel,147,37,50,13,38
+155,Los Colores,122,29,25,9,18
+156,Los Conquistadores,1164,107,162,42,62
+157,Los Naranjos,564,38,46,17,18
+158,Los Pinos,294,24,29,7,45
+159,Los Ángeles,558,46,76,26,55
+160,López de  Mesa,77,29,20,2,23
+161,Manila,1931,101,133,51,62
+162,Manrique Central No.2,447,84,70,27,85
+163,Manrique Oriental,417,86,90,28,146
+164,María Cano-Carambolas,23,3,12,4,34
+165,Mazo,0,1,0,0,0
+166,Media Luna,16,8,17,6,2
+167,Metropolitano,4,4,4,1,2
+168,Mirador del Doce,43,20,16,2,36
+169,Miraflores,350,44,67,24,49
+170,Miranda,421,35,43,14,70
+171,Miravalle,84,4,8,5,13
+172,Montañita,5,2,0,2,3
+173,Monteclaro,43,22,23,7,11
+174,Moravia,89,12,14,8,23
+175,Moscú No.1,172,30,34,10,58
+176,Moscú No.2,123,53,54,13,105
+177,Naranjal,18,0,1,0,0
+178,Nueva Villa de La Iguaná,146,14,24,7,34
+179,Nueva Villa del Aburrá,185,14,26,11,21
+180,Nuevos Conquistadores,30,14,15,6,19
+181,Ocho de Marzo,37,4,8,4,11
+182,Olaya Herrera,72,20,22,2,33
+183,Oriente,4,6,2,1,9
+184,Pablo VI,56,11,10,5,32
+185,Pajarito,342,142,129,38,83
+186,Palenque,419,112,124,20,54
+187,Palermo,296,61,59,19,73
+188,Parque Altavista,2,2,1,0,1
+189,Parque Juan Pablo II,474,40,49,26,27
+190,Parque San Antonio de Prado,8,4,1,0,0
+191,Parque San Cristóbal,214,99,100,23,75
+192,Pascual Bravo,39,21,23,4,5
+193,Patio Bonito,1021,53,89,30,38
+194,Pedregal,339,148,119,29,141
+195,Pedregal Alto,11,9,18,5,1
+196,Perpetuo Socorro,1070,74,107,37,72
+197,Picachito,20,16,18,6,24
+198,Picacho,138,99,73,8,65
+199,Piedras Blancas - Matasano,31,15,9,4,27
+200,Playón de Los Comuneros,142,20,22,12,52
+201,Popular,240,80,83,22,188
+202,Potrerito,1,0,2,0,1
+203,Prado Centro,1710,142,196,66,186
+204,Progreso No.2,102,27,21,2,34
+205,Robledo,262,86,87,35,33
+206,Rodeo Alto,28,3,2,1,2
+207,Rosales,1545,87,117,36,86
+208,San Antonio,4,3,2,0,6
+209,San Antonio de Prado,1353,179,190,78,302
+210,San Benito,119,4,13,5,18
+211,San Bernardo,162,7,11,5,13
+212,San Cristóbal,33,10,14,6,15
+213,San Diego,1329,103,157,45,80
+214,San Germán,28,1,1,0,1
+215,San Isidro,500,134,145,42,152
+216,San Javier No.1,1,0,1,0,0
+217,San José La Cima No.1,16,6,7,2,14
+218,San José La Cima No.2,1,3,4,2,3
+219,San José de La Montaña,1,0,1,1,0
+220,San Lucas,149,3,5,3,6
+221,San Pablo,245,75,56,24,155
+222,Santa Cruz,192,41,54,14,95
+223,Santa Elena Sector Central,17,2,1,0,0
+224,Santa Fé,1938,168,242,100,155
+225,Santa Inés,297,62,78,26,126
+226,Santa Margarita,214,94,73,26,44
+227,Santa María de Los Ángeles,741,47,94,26,23
+228,Santa Mónica,137,37,28,7,13
+229,Santa Teresita,224,13,17,10,12
+230,Santander,216,99,85,14,136
+231,Santo Domingo Savio No.1,210,92,89,30,217
+232,Santo Domingo Savio No.2,12,12,8,1,24
+233,Sin Nombre,58395,6934,8339,2430,8532
+234,Suramericana,1165,104,129,37,58
+235,Tejelo,446,132,111,34,112
+236,Tenche,805,64,98,25,45
+237,Terminal de Norte,7,1,3,1,1
+238,Terminal de guayabal,836,80,120,29,50
+239,Toscana,417,50,61,26,35
+240,Travesías,42,15,14,6,21
+241,Trece de Noviembre,29,3,2,0,12
+242,Tricentenario,332,52,51,23,35
+243,Trinidad,1357,118,153,48,184
+244,U.D. Atanasio Girardot,553,72,71,13,63
+245,UPB,211,25,32,15,14
+246,Universidad Nacional,2432,234,323,121,135
+247,Veinte de Julio,16,6,4,4,7
+248,Vereda Chuscal,1,0,0,0,0
+249,Versalles No.1,224,72,82,19,124
+250,Versalles No.2,26,2,4,3,15
+251,Villa Carlota,1746,95,128,50,70
+252,Villa Flora,72,21,20,3,18
+253,Villa Guadalupe,160,59,64,16,101
+254,Villa Hermosa,270,66,73,22,106
+255,Villa Lilliam,8,1,1,1,7
+256,Villa Niza,70,16,12,2,25
+257,Villa del Socorro,226,63,63,10,112
+258,Villatina,62,24,18,9,29
+259,Yolombo,6,0,1,1,0
+260,Zenú,33,3,3,2,4
