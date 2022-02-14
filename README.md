@@ -1,5 +1,8 @@
 ## Modelling road traffic collisions using clustered zones based on Foursquare data in Medellín
-Juan Pineda-Jaramillo  (University of Luxembourg), Óscar Arbeláez-Arenas (National University of Colombia) \
+Juan Pineda-Jaramillo<sup>a</sup>, Óscar Arbeláez-Arenas<sup>b</sup> \
+<sup>a</sup>University of Luxembourg \
+<sup>b</sup>National University of Colombia
+
 Case Studies on Transport Policy, Volume 9, Issue 2, 2021, Pages 958-964, ISSN 2213-624X \
 https://doi.org/10.1016/j.cstp.2021.04.016 \
 https://www.sciencedirect.com/science/article/pii/S2213624X21000699
@@ -11,5 +14,5 @@ Results show that crashes are the most common road traffic collision for all clu
 This diagnosis provides important insights to public agencies in the prioritisation and evaluation of strategies to reduce road traffic collisions in Medellín, based on the differences of clusters.
 
 ### Keywords: 
-Data mining; K-Means clustering model; Medellín’ venues; Clusters; Road traffic collisions; Foursquare data
+Data mining; K-Means clustering model; Medellín’ venues; Clusters; Road traffic collisions; Foursquare data.
 
